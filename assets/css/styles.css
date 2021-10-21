@@ -1,0 +1,21 @@
+.nav-item {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.product {
+  padding-top: 100px;
+  text-align: center;
+  height: 80vh100vh;
+}
+
+.news-card:hover > .card-body {
+  transform: scale(1.10);
+  transition: 0.5s;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.news-card {
+  overflow: hidden;
+}
