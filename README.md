@@ -1,5 +1,5 @@
 # maserati-landing
-This is just a fake Maserati x Apple landing page made for training purpose. <br />
+This is just a Maserati landing concept made for training purpose. <br />
 
 Preview 👇
 
